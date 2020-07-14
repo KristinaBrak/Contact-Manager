@@ -1,0 +1,13 @@
+D:\coding\dotNet\contact_manager\bin\Debug\netcoreapp3.1\contact_manager.exe
+D:\coding\dotNet\contact_manager\bin\Debug\netcoreapp3.1\contact_manager.deps.json
+D:\coding\dotNet\contact_manager\bin\Debug\netcoreapp3.1\contact_manager.runtimeconfig.json
+D:\coding\dotNet\contact_manager\bin\Debug\netcoreapp3.1\contact_manager.runtimeconfig.dev.json
+D:\coding\dotNet\contact_manager\bin\Debug\netcoreapp3.1\contact_manager.dll
+D:\coding\dotNet\contact_manager\bin\Debug\netcoreapp3.1\contact_manager.pdb
+D:\coding\dotNet\contact_manager\obj\Debug\netcoreapp3.1\contact_manager.csprojAssemblyReference.cache
+D:\coding\dotNet\contact_manager\obj\Debug\netcoreapp3.1\contact_manager.AssemblyInfoInputs.cache
+D:\coding\dotNet\contact_manager\obj\Debug\netcoreapp3.1\contact_manager.AssemblyInfo.cs
+D:\coding\dotNet\contact_manager\obj\Debug\netcoreapp3.1\contact_manager.csproj.CoreCompileInputs.cache
+D:\coding\dotNet\contact_manager\obj\Debug\netcoreapp3.1\contact_manager.dll
+D:\coding\dotNet\contact_manager\obj\Debug\netcoreapp3.1\contact_manager.pdb
+D:\coding\dotNet\contact_manager\obj\Debug\netcoreapp3.1\contact_manager.genruntimeconfig.cache
